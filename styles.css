@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+body {
+    background-image: url('./socorro.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+p {
+    font-family: 'Oswald', sans-serif;
+}
+
+h1 {
+    font-family: 'Akshar', sans-serif;
+}
+
+h2 {
+    font-family: 'Akshar', sans-serif;
+}
+
+.conteiner {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(236, 247, 236);
+    border-width: solid, 15px, black;
+}
+
+.imagem {
+    display: inline-block;
+    padding-left: 10px;
+}
